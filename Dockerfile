@@ -3,10 +3,10 @@
 # https://github.com/anupchat/tessera-docker
 #
 # VERSION 1.0
-MAINTAINER Anup Chatterjee <anup.chat@gmail.com>
+# Gets a Node and NPM container using precise ubuntu base.
 
-# Get a Node and NPM pre installed on this container using precise ubuntu base.
 FROM nodesource/node:precise
+MAINTAINER Anup Chatterjee <anup.chat@gmail.com>
 
 # If you are behind a proxy
 #ENV http_proxy http://www-proxy.us.com:80
