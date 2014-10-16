@@ -12,8 +12,8 @@ $ sudo docker run -d -p 5000:5000 anupchat/tessera-docker --name tessera
 ```
 Browse to [http://localhost:5000](http://localhost:5000) and you should see the tessera UI.
 
-## Update Graphite connection
+## Update the graphite URL
 
 Browse to [http://localhost:5000/preferences/](http://localhost:5000/preferences/)
 
-Update the graphite URL and you are good to create your dashboards here which connects to your graphite instance.
+Update the graphite URL and you are good to create your dashboards here which connects to your graphite instance. 
