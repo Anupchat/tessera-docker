@@ -3,7 +3,7 @@ Tessera docker container
 
 A Docker container running the [tessera](https://github.com/urbanairship/tessera).
 
-Prequisite is to setup and install [docker](http://docker.com).
+Prerequisite is to setup and install [docker](http://docker.com) for this container to work.
 
 ## Start the container
 
